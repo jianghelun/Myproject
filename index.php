@@ -1,3 +1,2 @@
 <?php
-echo 'very good';
-echo 'wo hen hao';
+echo 'very good nice';

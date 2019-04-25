@@ -2,12 +2,11 @@
 	"name" : "jianghelun/myproject",
 	"description" : "test project",
 	"type" : "project",
-	"license" : "mit",
+	"license" : "MIT",
 	"authors" : [{
 			"name" : "Berlain",
 			"email" : "522957318@qq.com"
 		}
 	],
-	"minimum-stability" : "stable",
-	"require" : {}
+	"minimum-stability" : "stable"
 }

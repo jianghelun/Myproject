@@ -1,22 +1,13 @@
 {
-    "name": "jianghelun/myproject",
-    "description": "test project",
-    "type": "project",
-    "license": "mit",
-    "authors": [
-        {
-            "name": "Berlain",
-            "email": "522957318@qq.com"
-        }
-    ],
-    "minimum-stability": "",
-    "require": {
-    	"madskullcreations/simplicity":"dev-master@dev"
-    },
-  	"repositories": [
-    {
-       "type": "vcs",
-       "url": "https://github.com/madskullcreations/simplicity" 
-    }
-  ]
+	"name" : "jianghelun/myproject",
+	"description" : "test project",
+	"type" : "project",
+	"license" : "mit",
+	"authors" : [{
+			"name" : "Berlain",
+			"email" : "522957318@qq.com"
+		}
+	],
+	"minimum-stability" : "stable",
+	"require" : {}
 }

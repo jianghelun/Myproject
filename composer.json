@@ -1,0 +1,15 @@
+{
+	"name" : "jianghelun/myproject",
+	"description" : "test project",
+	"type" : "project",
+	"license" : "MIT",
+	"authors" : [{
+			"name" : "Berlain",
+			"email" : "522957318@qq.com"
+		}
+	],
+	"minimum-stability" : "stable",
+	"require" : {
+		"topthink/think-image" : "^1.0"
+	}
+}
